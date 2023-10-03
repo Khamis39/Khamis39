@@ -28,7 +28,6 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
@@ -93,61 +92,42 @@
                 </div>
             </section>
             <hr class="m-0" />
-
-            <!-- Project-->
-            <section class="resume-section" id="project">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Projects</h2>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">King Abdulaziz University</h3>
-                            <div class="subheading mb-3">Master of Science</div>
-                            <div>Information Technology - Ransomware Detection </div>
-                            <p>GPA:4.76 </p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2022 - Date</span></div>
-                    </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">King Abdulaziz University</h3>
-                            <div class="subheading mb-3">Information Technology - Software Engineering and Database Track</div>
-                            <p>GPA: 4.75</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2017 - May 2021</span></div>
-                    </div>
-                </div>
-            </section>
-            <hr class="m-0" />
-
-
             <!-- Experience-->
             <section class="resume-section" id="experience">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Experience</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Research Assistant</h3>
-                            <div class="subheading mb-3">Information Technology Department</div>
-                            <p>Helps to developing and evaluating methods and Machine learning models for detecting unauthorized access or attacks on 
-                                computer networks or devices.  Also assist in conducting experiments, collecting and analyzing data, 
-                                writing reports and papers, and presenting the findings</p>
+                            <h3 class="mb-0">Senior Web Developer</h3>
+                            <div class="subheading mb-3">Intelitec Solutions</div>
+                            <p>Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">March 2022 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">March 2013 - Present</span></div>
                     </div>
-                   
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Web Developer</h3>
+                            <div class="subheading mb-3">Intelitec Solutions</div>
+                            <p>Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">December 2011 - March 2013</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Junior Web Designer</h3>
+                            <div class="subheading mb-3">Shout! Media Productions</div>
+                            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>
+                    </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0">Android App Developer</h3>
-                            <div class="subheading mb-3">Android Studio and Playstore</div>
-                            <p>Creates applications for devices that run on the Android operating system, 
-                             I possesed knowledge of Android SDK, Android Studio, Java, XML, Firebase, Google Play Services, 
-                             and other third-party libraries and frameworks. I can design and test user interfaces, debug and fix errors, and 
-                             update and maintain existing apps. I have the ability to work independently and collaboratively with other developers and 
-                             stakeholders.</p>
+                            <h3 class="mb-0">Book Recycler Mobile Application</h3>
+                            <div class="subheading mb-3">Android Based Mobile App</div>
+                            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>
                         </div>
-                        <div class="flex-shrink-0"><a class="text-primary" >June 2019 - 2021</a></div>
-                        <div class="flex-shrink-0"><a class="text-primary" href="https://play.google.com/store/apps/details?id=com.book.bookrecycler"><i class="fab fa-android" aria-hidden="true"></i></a></div>
-                        <div class="flex-shrink-0"><a class="text-primary" href="https://play.google.com/store/apps/details?id=deanship.example.ScholarshipApp"><i class="fab fa-android" aria-hidden="true"></i></a></div>
+                        <div class="flex-shrink-0"><span class="text-primary" >June 2021</span></div>
+                        <div class="flex-shrink-0"><a class="text-primary" href="https://play.google.com/store/apps/details?id=com.book.bookr"><i class="fab fa-android" aria-hidden="true"></i></a></div>
                     </div>
 
                     <div class="subheading mb-3">Volunteer & Leadership Experience</div>
